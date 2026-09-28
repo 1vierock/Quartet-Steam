@@ -33,9 +33,8 @@ Si vous appréciez mes projets de traduction et souhaitez soutenir mon travail :
 ## Installation
 
 1. Procurez-vous votre propre copie du jeu original **Quartet** sur Nintendo Switch.
-2. Téléchargez le dernier patch de traduction française depuis la page [Releases](../../releases).
-3. Appliquez le patch `.xdelta` à votre copie originale du jeu à l'aide d'un outil de patch XDelta.
-4. Lancez le jeu patché sur Nintendo Switch ou sur un émulateur compatible.
+2. Téléchargez le dernier patch de traduction française depuis la page 
+
 
 > ⚠️ Le jeu original n'est pas inclus dans ce projet.
 
