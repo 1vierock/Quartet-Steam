@@ -1,9 +1,9 @@
-# Quartet-Switch-French-Patch
+# Quartet-Steam-FR-Patch
 Patch Fr du super jeu RPG
 
 
 
-Projet de traduction française de **Quartet** sur Nintendo Switch.
+Projet de traduction française de **Quartet** sur Steam.
 
 ## État du projet
 
@@ -14,7 +14,7 @@ Projet de traduction française de **Quartet** sur Nintendo Switch.
 
 ## À propos
 
-Projet de traduction française de la version **Nintendo Switch** Quartet.
+Projet de traduction française de la version **Steam** Quartet.
 
 ## Soutien
 
